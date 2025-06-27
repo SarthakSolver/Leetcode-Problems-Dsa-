@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
