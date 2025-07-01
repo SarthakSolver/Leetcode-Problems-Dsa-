@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1078-remove-outermost-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/3617-find-the-original-typed-string-i) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0812-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
