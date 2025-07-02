@@ -54,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
