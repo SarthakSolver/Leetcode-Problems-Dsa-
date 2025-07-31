@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
 ## Stack
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
