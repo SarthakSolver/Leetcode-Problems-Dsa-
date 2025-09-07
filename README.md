@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
