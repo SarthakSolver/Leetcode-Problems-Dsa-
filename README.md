@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
