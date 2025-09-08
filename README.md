@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
