@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Trie
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
