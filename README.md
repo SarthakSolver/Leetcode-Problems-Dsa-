@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1642-water-bottles) |
 ## Recursion
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
