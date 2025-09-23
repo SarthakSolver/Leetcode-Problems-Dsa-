@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -145,4 +148,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
