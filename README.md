@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Dynamic Programming
 |  |
 | ------- |
