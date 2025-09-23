@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
