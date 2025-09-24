@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1127-last-stone-weight](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1127-last-stone-weight) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
