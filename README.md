@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1127-last-stone-weight) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
