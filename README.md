@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1127-last-stone-weight) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
