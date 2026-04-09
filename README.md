@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
