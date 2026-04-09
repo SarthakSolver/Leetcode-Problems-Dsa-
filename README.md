@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1127-last-stone-weight) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
