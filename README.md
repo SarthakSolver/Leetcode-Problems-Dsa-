@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1642-water-bottles](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1642-water-bottles) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
