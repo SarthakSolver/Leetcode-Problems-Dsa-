@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0812-rotate-string) |
 ## Hash Table
 |  |
