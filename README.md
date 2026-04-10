@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1642-water-bottles](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1642-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1903-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/3336-water-bottles-ii) |
 ## Recursion
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1903-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
