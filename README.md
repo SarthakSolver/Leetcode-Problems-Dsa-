@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0151-reverse-words-in-a-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0048-rotate-image) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1903-largest-odd-number-in-string) |
 ## Database
