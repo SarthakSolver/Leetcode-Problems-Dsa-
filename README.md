@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/1127-last-stone-weight) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/0704-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SarthakSolver/Leetcode-Problems-Dsa-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
